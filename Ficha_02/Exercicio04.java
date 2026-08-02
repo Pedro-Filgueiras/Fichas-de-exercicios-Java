@@ -21,5 +21,6 @@ public class Exercicio04 {
         } else {
             System.out.println("Valor não permitido na escala");
         }
+        scanner.close();
     }
 }

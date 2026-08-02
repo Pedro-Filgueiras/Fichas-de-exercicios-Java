@@ -18,5 +18,6 @@ public class Exercicio03 {
             System.out.println("Mãos vazias");
         }
 
+        scanner.close();
     }
 }

@@ -20,5 +20,6 @@ public class Exercicio11 {
 
         System.out.println("Chakra total: " + somaChakra);
     
+        scanner.close();
     }
 }

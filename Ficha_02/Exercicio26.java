@@ -13,5 +13,6 @@ public class Exercicio26 {
         if (frase.contains("Akatsuki")) {
             System.out.println("PERIGO DETECTADO");
         }
+        scanner.close();
     }
 }

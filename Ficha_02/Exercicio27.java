@@ -11,6 +11,6 @@ public class Exercicio27 {
         String fullName = scanner.nextLine();
 
         System.out.println(fullName.charAt(0));
-
+        scanner.close();
     }
 }

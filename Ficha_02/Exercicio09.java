@@ -21,5 +21,7 @@ public class Exercicio09 {
         } while (continuarComendo);
 
         System.out.println("Total comido: " + contador);
+
+        scanner.close();
     }
 }

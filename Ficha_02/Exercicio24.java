@@ -11,5 +11,6 @@ public class Exercicio24 {
         String jutsu = scanner.nextLine();
 
         System.out.printf("JUTSU ATIVADO! %s!", jutsu.toUpperCase());
+        scanner.close();
     }
 }

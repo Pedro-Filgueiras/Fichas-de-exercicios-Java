@@ -16,5 +16,6 @@ public class Exercicio15 {
         }
 
         System.out.println(Arrays.toString(vetor));
+        scanner.close();
     }
 }

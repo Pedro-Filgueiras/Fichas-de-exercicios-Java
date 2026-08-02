@@ -18,5 +18,6 @@ public class Exercicio14 {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }

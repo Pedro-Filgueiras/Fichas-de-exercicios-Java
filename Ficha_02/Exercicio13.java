@@ -17,5 +17,6 @@ public class Exercicio13 {
             }
         }
         
+        scanner.close();
     }
 }

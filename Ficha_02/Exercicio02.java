@@ -1,6 +1,5 @@
 package Ficha_02;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Exercicio02 {
@@ -17,5 +16,6 @@ public class Exercicio02 {
 
         System.out.printf("O preço total é: %.2f", precoTotal);
 
+        scanner.close();
     }
 }

@@ -13,5 +13,7 @@ public class Exercicio08 {
         for (int i=0; i<quantidadeFlexoes; i++) {
             System.out.println("Flexão "+ (i+1));
         }
+
+        scanner.close();
     }
 }

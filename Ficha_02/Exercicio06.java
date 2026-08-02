@@ -27,6 +27,6 @@ public class Exercicio06 {
                 System.out.println("Time desconhecida");
                 break;
         }
-
+        scanner.close();
     }
 }

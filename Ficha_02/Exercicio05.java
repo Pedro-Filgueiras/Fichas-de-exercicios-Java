@@ -32,6 +32,6 @@ public class Exercicio05 {
         } else {
             System.out.println("Entrada negada");
         }
-
+        scanner.close();
     }
 }

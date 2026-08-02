@@ -16,5 +16,6 @@ public class Exercicio23 {
             contador += 1;
         }
         System.out.println("O total de caracteres é: " + contador);
+        scanner.close();
     }
 }

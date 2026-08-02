@@ -20,5 +20,6 @@ public class Exercicio29 {
         } else {
             System.out.println("Não é palíndromo");
         }
+        scanner.close();
     }
 }
